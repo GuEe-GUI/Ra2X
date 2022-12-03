@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="Docs/Logo.svg" />
+	<img src="Docs/Image/Logo.svg" />
 </p>
 
 **中文** | [English](README_en.md)
@@ -19,4 +19,4 @@
 
 # 开源协议
 
-该项目完全开源，基于`UE4.7.6`版本开发，采用 Apache License 2.0 协议发布。
+该项目完全开源，基于`UE5.1.0`版本开发，采用 Apache License 2.0 协议发布。

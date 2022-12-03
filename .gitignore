@@ -1,0 +1,19 @@
+# SPDX-License-Identifier: Apache-2.0
+#
+# Files to be excluded
+#
+
+# Binary
+*.exe
+*.dll
+*.lib
+*.dylib
+*.a
+*.so
+*.elf
+
+# Script
+*.sh
+*.bat
+
+## UnrealEngine

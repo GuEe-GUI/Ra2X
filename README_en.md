@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="Docs/Logo.svg" />
+	<img src="Docs/Image/Logo.svg" />
 </p>
 
 **English** | [中文](README.md)
@@ -19,4 +19,4 @@ Red Alert 2 is restored to 1:1 by a modern game engine as possible, completely s
 
 # License
 
-Ra2X is an open source software and base on `UE4.7.6`, Apache License Version 2.0 License.
+Ra2X is an open source software and base on `UE5.1.0`, Apache License Version 2.0 License.
